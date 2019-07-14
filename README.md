@@ -260,11 +260,8 @@ YouTube Studio | [studio.youtube.com](https://studio.youtube.com 'YouTube Studio
 YouTube TV | [tv.youtube.com](https://tv.youtube.com 'YouTube TV')
 Zagat | [zagat.com](https://www.zagat.com 'Zagat')
 
-<<<<<<< HEAD
 * = Discontinued
 
-=======
->>>>>>> cd7416f9f7263dc220e95c9604da27f0d77fb0cf
 TO DO:
 - Further refinement to list
 - Descriptions for each row
